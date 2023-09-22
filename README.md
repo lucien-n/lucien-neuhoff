@@ -7,6 +7,8 @@
  - I'm a 17yo developper
  - I'm mainly doing fullstack web developpment 
 
+Sveltekit is life
+
 ### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
